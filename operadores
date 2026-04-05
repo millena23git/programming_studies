@@ -3,3 +3,13 @@ if idade>=18:
     print(True)
 else:
     print(False)
+
+
+
+valor_compra=120
+cliente_vip=True
+if valor_compra>100 or cliente_vip==True:
+ print("desconto aplicado")
+else:
+ print("sem desconto")
+code: DESCONTO APLICADO
